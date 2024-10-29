@@ -25,7 +25,7 @@
 - **Sideload Guide:** [How to Sideload an APK](https://www.digitaltrends.com/mobile/how-to-sideload-an-apk/)
 - **App APK**  
   - [App APK (short URL)](https://t.ly/lJJFB)
-  - [Direct Download APK](https://cdn.discordapp.com/attachments/733102556355625092/1299470344251506780/emby_phone.apk?ex=671f4bd1&is=671dfa51&hm=634063c9249886ee536db2171acc61628246e160a7ef196d35dd79dc4d388890&)
+  - [Mirror](https://anonymfile.com/PRd1r/emby-phone.apk)
 
 ---
 
@@ -36,7 +36,7 @@
 - **Downloader by AFTVnews Code:** 785999
 - **App APK**  
   - [App APK (short URL)](https://t.ly/2sP7q)
-  - [Direct Download APK](https://cdn.discordapp.com/attachments/733102556355625092/1299470345090371645/emby_tv.apk?ex=671f4bd1&is=671dfa51&hm=239fb07d9926b9cd74b2beb352aa30c272db62341f5ff2f2a1cef66a2d43d5cb&)
+  - [Mirror](https://anonymfile.com/XNk9K/emby-tv.apk)
 
 ---
 
