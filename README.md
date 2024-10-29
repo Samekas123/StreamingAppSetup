@@ -50,12 +50,6 @@
 
 ---
 
-> For additional support, refer to the official app guides or contact support.
-
----
-
-### Tips for GitHub Pages
-
 To make this into a GitHub Page:
 - Go to your repository’s settings.
 - Under "Pages," select your branch and folder to publish from, and GitHub will generate the site.
