@@ -41,7 +41,7 @@
 
 - **Downloader by AFTVnews Code:** 785999
 - **App APK**  
-  - App APK (short URL): https://t.ly/2sP7q
+  - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
   - [Mega](https://mega.nz/file/Eu8XhaJY#be7coKD5hIdBqNKJpONsaBLlRJ85kC-8R2FtsIZoHv8)
 
 ---
