@@ -47,9 +47,3 @@
 - **Downloader by AFTVnews Code:** 785999
 - **App APK**  
   - [App APK (short URL)](https://t.ly/2sP7q)
-
----
-
-To make this into a GitHub Page:
-- Go to your repository’s settings.
-- Under "Pages," select your branch and folder to publish from, and GitHub will generate the site.
