@@ -35,9 +35,9 @@
 
 - **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
 - **Sideload Guide:**
-  - 1. Go to Settings -> Build Version -> Press it 10-15 times
-  - 2. Settings -> Apps - Security settings -> Allow Apps from Unknown Sources
-  - 3. Download the app "Downloader by AFTVnews"
+  - 1. Settings -> System -> About -> Android TV OS build -> Press it 10-15 times
+  - 2. Settings -> Settings -> Privacy -> Security & Restrictions -> Allow Apps from Unknown Sources
+  - 3. Download the app “Downloader by AFTVnews”
   - 4. Open "Downloader by AFTVnews" and insert the Code: **947240**
   - 5. Follow the prompts
 
