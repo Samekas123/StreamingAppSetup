@@ -25,7 +25,9 @@
 - **Sideload Guide:** [How to Sideload an APK](https://www.digitaltrends.com/mobile/how-to-sideload-an-apk/)
 - **App APK**  
   - App APK (short URL): [https://t.ly/sb5uT](https://t.ly/sb5uT)
-  - [Mega](https://mega.nz/file/MmkmkQRA#rD3_h9PCtyptTyUoFdd8xfppSmGO_dQ-Uo9e8y81GWo)
+  - [Mirror 1](https://tinyurl.com/mrxcsy2p)
+  - [Mirror 2](https://tinyurl.com/5n8fh4v)
+  - [Mirror 3](https://tinyurl.com/4sup697j)
 
 ---
 
@@ -42,7 +44,9 @@
 - **Downloader by AFTVnews Code:** 785999
 - **App APK**  
   - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
-  - [Mega](https://mega.nz/file/Eu8XhaJY#be7coKD5hIdBqNKJpONsaBLlRJ85kC-8R2FtsIZoHv8)
+  - [Mirror 1](https://tinyurl.com/5fpfw7bv)
+  - [Mirror 2](https://tinyurl.com/4dy7y3ay)
+  - [Mirror 3](https://tinyurl.com/3yjyvxve)
 
 ---
 
@@ -54,3 +58,5 @@
 - **Downloader by AFTVnews Code:** 785999
 - **App APK**  
   - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
+  - [Mirror 1](https://tinyurl.com/5y869n2c)
+  - [Mirror 2](https://tinyurl.com/mry287f5)
