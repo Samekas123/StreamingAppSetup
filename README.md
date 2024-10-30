@@ -26,7 +26,7 @@
 - **App APK**  
   - App APK (short URL): [https://t.ly/sb5uT](https://t.ly/sb5uT)
   - [Mirror 1](https://tinyurl.com/mrxcsy2p)
-  - [Mirror 2](https://tinyurl.com/5n8fh4v)
+  - [Mirror 2](https://tinyurl.com/337yzp6f)
   - [Mirror 3](https://tinyurl.com/4sup697j)
 
 ---
@@ -45,7 +45,7 @@
 - **App APK**  
   - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
   - [Mirror 1](https://tinyurl.com/5fpfw7bv)
-  - [Mirror 2](https://tinyurl.com/4dy7y3ay)
+  - [Mirror 2](https://tinyurl.com/3nd4hf5n)
   - [Mirror 3](https://tinyurl.com/3yjyvxve)
 
 ---
