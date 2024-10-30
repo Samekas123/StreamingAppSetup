@@ -41,7 +41,7 @@
   - 4. Open "Downloader by AFTVnews" and insert the Code: **947240**
   - 5. Follow the prompts
 
-- **Downloader by AFTVnews Code:** 785999
+- **Downloader by AFTVnews Code:** 947240
 - **App APK**  
   - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
   - [Mirror 1](https://tinyurl.com/5fpfw7bv)
