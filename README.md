@@ -7,7 +7,7 @@
 
 ## 📺 Apple TV
 - **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850) [Youtube Tutorial Apple TV 4K](https://youtu.be/js9DkFN_85s)
-- **Infuse** - [Paid/Best](https://apps.apple.com/us/app/infuse-video-player/id1136220934) [Youtube Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w) | [Youtube Tutorial Apple TV 4K](https://youtu.be/m_a6ZP03bOY)
+- **Infuse** - [Paid/Best](https://apps.apple.com/us/app/infuse-video-player/id1136220934) [Youtube Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w) [Youtube Tutorial Apple TV 4K](https://youtu.be/m_a6ZP03bOY)
 - **VidHub** - Paid
 
 
