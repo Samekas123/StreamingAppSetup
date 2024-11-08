@@ -69,7 +69,12 @@
 
 ---
 
-🍏 macOS
-Recommended Apps: Use SenPlayer or Infuse for optimal streaming.
-Alternative: You can also use the Web Player by clicking on the server URL sent to your email. No installation required!
-IMPORTANT: Please do not use Emby Theater due to server license limits, which may restrict access.
+Here’s the final update with the Emby Theater note for macOS:
+
+---
+
+## 🍏 macOS
+
+- **Recommended Apps:** Use **SenPlayer** or **Infuse** for optimal streaming.
+- **Alternative:** You can also use the **Web Player** by clicking on the server URL sent to your email. No installation required!
+- **IMPORTANT:** Please **do not use Emby Theater** due to server license limits, which may restrict access.
