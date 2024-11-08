@@ -14,7 +14,7 @@
 ---
 
 ## 📱 iOS (iPhone/iPad)
-- **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850) | [YouTube Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY) 
+- **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850) [YouTube Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY) 
 - **VidHub** - Paid
 - **Infuse** - Paid
 
