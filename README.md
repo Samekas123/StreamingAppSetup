@@ -69,10 +69,6 @@
 
 ---
 
-Here’s the final update with the Emby Theater note for macOS:
-
----
-
 ## 🍏 macOS
 
 - **Recommended Apps:** Use **SenPlayer** or **Infuse** for optimal streaming.
