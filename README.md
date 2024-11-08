@@ -61,3 +61,15 @@
   - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q)
   - [Mirror 1](https://tinyurl.com/5y869n2c)
   - [Mirror 2](https://tinyurl.com/mry287f5)
+
+## 💻 PC Windows / Linux
+
+- **Easiest Method:** Use the **Web Player** by clicking on the server URL sent to your email. No installation required!
+- **IMPORTANT:** Please **do not use Emby Theater** due to server license limits, which may restrict access.
+
+---
+
+🍏 macOS
+Recommended Apps: Use SenPlayer or Infuse for optimal streaming.
+Alternative: You can also use the Web Player by clicking on the server URL sent to your email. No installation required!
+IMPORTANT: Please do not use Emby Theater due to server license limits, which may restrict access.
